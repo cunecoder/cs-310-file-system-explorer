@@ -1,0 +1,12 @@
+## Name:        CS 310 - W2 Filesystem Explorer.txt
+## Author:      David Marin
+## Created:     9/13/2025
+## Description: This document answers the listed questions from the file system explorer repo. 
+
+
+Question #1: How do you accept command-line arguments.
+Answer: To accept command-line arguments, you simply write the name of the bash script and whatever command-line
+        arguments you want, with a space inbetween them. Ex: ./exscript -v -n
+        Like any other arguments, you simply type it after the bash script.
+
+Question #2: What other programs did you use to complete this assignment? (Such as cat, sed, etc., not AI).
