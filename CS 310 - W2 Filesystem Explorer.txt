@@ -10,3 +10,6 @@ Answer: To accept command-line arguments, you simply write the name of the bash 
         Like any other arguments, you simply type it after the bash script.
 
 Question #2: What other programs did you use to complete this assignment? (Such as cat, sed, etc., not AI).
+I used a variety of programs/commands including: realpath, du, and file --mime-type. I used realpath to find
+the path of each file/directory in the given directory. The command 'du' was used to find the size of each file.
+Finally, 'file --mime-type-' was used to find the type of each file.
